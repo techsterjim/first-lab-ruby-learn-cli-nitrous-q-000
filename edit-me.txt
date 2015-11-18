@@ -1,0 +1,2 @@
+ruby -e 'print "Hello Ruby!\n"'
+Hello Ruby!
